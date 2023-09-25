@@ -1,5 +1,5 @@
 # 💫 About Me:
-<strong>🖤/~methamphetamine/~🖤</strong> <br>
+<strong>🖤\~methamphetamine\~🖤</strong> <br>
 14 y. o.
 
 
