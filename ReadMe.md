@@ -1,6 +1,6 @@
 # 💫 About Me:
 <strong>🖤\~methamphetamine\~🖤</strong> <br>
-14 y. o.
+15 y. o.
 
 
 ## 🌐 Socials:
