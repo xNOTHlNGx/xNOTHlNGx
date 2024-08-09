@@ -1,5 +1,5 @@
 {
-    "url": "nothingwallet.ton",                        // required
-    "name": "NOTHING bio donations",                   // required
-    "iconUrl": "http://nothingwallet.ton/photos/logo.png"
+    "url": "nothingwallet.ton",
+    "name": "NOTHING bio donations",
+    "iconUrl": "https://raw.githubusercontent.com/xNOTHlNGx/xNOTHlNGx/main/assets/logo.png"
 }
