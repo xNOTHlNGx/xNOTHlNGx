@@ -1,6 +1,6 @@
  # 💫 About Me:
 <strong>🖤\~methamphetamine\~🖤</strong> <br>
-
+![alt text]((https://pomoyka.xnothingx.com/files/cat.png))
 
 ## 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/xNOTHlNGx)
